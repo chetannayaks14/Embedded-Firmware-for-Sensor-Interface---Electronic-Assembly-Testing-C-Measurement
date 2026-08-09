@@ -1,4 +1,4 @@
-# Embedded-Firmware-for-Sensor-Interface---Electronic-Assembly-Testing-C-Measurement
+# Embedded-Firmware-for-Sensor-Interface
 
 Embedded Firmware for Sensor Interface - Electronic Assembly Testing, C, Measurement
 • Developed and tested electronic assembly by writing low-level C drivers for I2C and SPI sensor interfaces on ARM
